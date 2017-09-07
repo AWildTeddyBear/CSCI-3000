@@ -36,7 +36,7 @@ This should get you generally up and running for some of my programs -- however,
 
 ## Built With
 
-* [Sublime Text](https://www.sublimetext.com/3dev) - My main editor for code -- **Highly Reccomended**
+* [Sublime Text](https://www.sublimetext.com/3dev) - My main editor for code -- **Highly Recommended**
 * [Atom](https://atom.io/) - Another code editor (Pretty handy for adding new things to it for extra uses)
 * [Visual Studio 2017 Enterprise](https://www.visualstudio.com/downloads/) - Used for Windows ports (Win32 Apps)
 
