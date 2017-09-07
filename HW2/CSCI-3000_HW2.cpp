@@ -28,7 +28,7 @@ Is NotADeveloper (As shown in this program (and any others written and uploaded 
  You cannot compile this program as a regular program with G++; below is how you NEED to compile:
 
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-				  =+=+=+= g++ -std=c++17 sha256.cpp CSCI-3000_HW2.cpp -o out =+=+=+=
+		=+=+=+= g++ -std=c++17 sha256.cpp CSCI-3000_HW2.cpp -o out =+=+=+=
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
 					Again, the regular: g++ CSCI3000-HW1.cpp -o out
