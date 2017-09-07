@@ -36,7 +36,7 @@ And to run your new compiled program:
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/AWildTeddyBear/CSCI-3000/blob/master/README.md) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/AWildTeddyBear/CSCI-3000/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
