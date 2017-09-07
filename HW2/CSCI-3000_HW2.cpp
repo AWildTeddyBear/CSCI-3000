@@ -31,7 +31,7 @@ Is NotADeveloper (As shown in this program (and any others written and uploaded 
 		=+=+=+= g++ -std=c++17 sha256.cpp CSCI-3000_HW2.cpp -o out =+=+=+=
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
-					Again, the regular: g++ CSCI3000-HW1.cpp -o out
+			Again, the regular: g++ CSCI3000-HW2.cpp -o out
     Will *NOT* work; you will be greeted with compiling errors and it will not compile at all.
 
 =================================================================================================
