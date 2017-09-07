@@ -13,7 +13,7 @@ These were meant for a Computer Science programming course in my college.
 What you'll need to compile and run my code:
 
 ```
-G++ Compiler - Found in linux distros (Tested only on Ubuntu 16.06+ and with cygwin with C++ compiler)
+G++ Compiler - Found in linux distros (Tested only on Ubuntu 16.06+ and with cygwin with G++ compiler on Windows 10)
 ```
 
 ### Compiling
