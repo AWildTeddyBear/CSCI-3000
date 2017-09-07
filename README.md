@@ -54,7 +54,7 @@ However, if you can simplify it down and make it much more efficient -- let me k
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/AWildTeddyBear/CSCI-3000/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
